@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌊 Welcome to my GitHub!
 
-<!--
-**Gristlypoet1/Gristlypoet1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+I'm **Kevin**, a passionate developer currently enrolled in the **Full Stack Developer course by freeCodeCamp**.  
+My focus is on building dynamic web applications using modern technologies and best practices.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What You'll Find Here:
+- **Frontend Projects:** HTML, CSS, JavaScript, React  
+- **Backend Implementations:** Node.js, Express, MongoDB  
+- **API Integrations & Database Management**  
+- **Portfolio Projects:** Exploring new frameworks and techniques  
+
+
+## 💻 Current Projects:
+- Completing the **freeCodeCamp Full Stack Developer course** 
